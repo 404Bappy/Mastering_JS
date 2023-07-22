@@ -1,3 +1,15 @@
+var age = 30;
+var city = "Dhaka";
+if (age > 20 && city == "Dhaka") {
+  document.write("Ei Lok Buira");
+} else {
+  document.write("Ushtha Mar Hala re");
+}
+
+
+
+
+
 var marks = 40;
       if (marks >= 80) {
         document.write("A+");
