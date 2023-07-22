@@ -1,4 +1,4 @@
-var Marks = 90;
+var Marks = 100;
 
 switch(true){
     case (Marks<=100 && Marks>=80):
